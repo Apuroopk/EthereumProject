@@ -39,6 +39,12 @@ h3 {
   font-size: 24px;
 }
 
+h3 {
+  font-weight: normal;
+  color: rgb(99, 99, 99);
+  font-size: 20px;
+}
+
 .black {
   color: black;
 }
